@@ -1,5 +1,5 @@
 /*************************a1.c****************************
-Student Name: Nicholas Macedo - Van Horne        Student Number: 0889469
+Student Name: Nicholas Macedo                    Student Number:
 Date: Jamuary 16th 2015                          Course Name:CIS 2500
 I have exclusive control over this submission via my password.
 By including this statement in this header comment, I certify that:
